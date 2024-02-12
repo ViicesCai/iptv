@@ -133,13 +133,14 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3
 
 #福建/地方频道
 #EXTINF:-1 tvg-id="FJ1" tvg-name="福建少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Fujian8.png" group-title="福建频道",福建少儿
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://27.148.240.138/PLTV/88888888/224/3221226738/1.m3u8
 #EXTINF:-1 tvg-id="FJ2" tvg-name="福建新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Fujian3.png" group-title="福建频道",福建新闻
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://27.148.240.138/PLTV/88888888/224/3221226736/1.m3u8
 #EXTINF:-1 tvg-id="FJ3" tvg-name="福建综合" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Fujian1.png" group-title="福建频道",福建综合
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-id="FJ4" tvg-name="泉州台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Fujian1.png" group-title="福建频道",泉州台
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227165/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://27.148.240.138/PLTV/88888888/224/3221226722/1.m3u8
+#EXTINF:-1 tvg-id="FJ4" tvg-name="泉州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Fujian1.png" group-title="福建频道",泉州卫视
+https://live.qztv.cn/live/news.m3u8
+
 
 #数字高清/42个频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="数字",CHC高清电影
